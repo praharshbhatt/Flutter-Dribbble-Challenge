@@ -33,7 +33,7 @@ c) [RadialSeekBar tutorial by Fluttery](https://youtu.be/FE7Vtzq52xg?t=2076)
 
 ## Authors
 
-* **Praharsh Bhatt**  - [singhbhavneet](https://github.com/praharshbhatt)
+* **Praharsh Bhatt**  - [praharshbhatt](https://github.com/praharshbhatt)
 
 ## License
 
